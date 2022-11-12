@@ -1,12 +1,3 @@
-<style>
-    @import url('https://fonts.cdnfonts.com/css/gotham-ultra');
-
-    .motto {
-        font-family: 'Gothamn Ultra', sans-serif;
-        font-weight: bold;
-    }
-</style>
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/ReGuilded/.github/main/assets/banner.png" />
     <br />
