@@ -1,5 +1,5 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/ReGuilded/.github/main/assets/banner.png" />
     <br />
-    <h1 class="motto" font-style="bold">Enhance your <span style="color: #F5C400;">Guilded</span> Experience with <span style="color: #EE4E3D;">ReGuilded</span></h1>
+    <h1 style="font-weight:bold;">Enhance your Guilded Experience with ReGuilded</h1>
 </div>
